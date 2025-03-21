@@ -5,7 +5,7 @@
 To install your new environment, run the following commands:
 
 ```{shell}
-cd soft_legged_robot_env
+cd PPO_SOFA_Soft_Legged_Robot
 pip install -e .
 ```
 
