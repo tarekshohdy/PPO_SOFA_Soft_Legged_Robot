@@ -1,0 +1,23 @@
+Particle Swarm Optimization
+---------------------------
+Number of Particles: 50
+Number of Iterations: 15
+sample_size: 500
+----------------------------------------------
+Iteration: 0	Best Particle: [1.56738300e-01 1.56191744e+04]	Global Best Score: 16.258563954896253
+Iteration: 1	Best Particle: [1.56738300e-01 1.56191744e+04]	Global Best Score: 16.258563954896253
+Iteration: 2	Best Particle: [2.71942663e-02 1.36060713e+04]	Global Best Score: 16.149015202810123
+Iteration: 3	Best Particle: [2.71942663e-02 1.36060713e+04]	Global Best Score: 16.149015202810123
+Iteration: 4	Best Particle: [2.71942663e-02 1.36060713e+04]	Global Best Score: 16.149015202810123
+Iteration: 5	Best Particle: [2.71942663e-02 1.36060713e+04]	Global Best Score: 16.149015202810123
+Iteration: 6	Best Particle: [1.00000000e-02 1.70623273e+04]	Global Best Score: 16.0586893957288
+Iteration: 7	Best Particle: [1.00000000e-02 1.70623273e+04]	Global Best Score: 16.0586893957288
+Iteration: 8	Best Particle: [2.43497256e-02 1.62820114e+04]	Global Best Score: 16.02179521050442
+Iteration: 9	Best Particle: [2.43497256e-02 1.62820114e+04]	Global Best Score: 16.02179521050442
+Iteration: 10	Best Particle: [2.43497256e-02 1.62820114e+04]	Global Best Score: 16.02179521050442
+Iteration: 11	Best Particle: [8.21706941e-02 1.59976155e+04]	Global Best Score: 15.757048663637853
+Iteration: 12	Best Particle: [8.21706941e-02 1.59976155e+04]	Global Best Score: 15.757048663637853
+Iteration: 13	Best Particle: [8.21706941e-02 1.59976155e+04]	Global Best Score: 15.757048663637853
+Iteration: 14	Best Particle: [8.21706941e-02 1.59976155e+04]	Global Best Score: 15.757048663637853
+=============================================
+Optimal Parameters: [8.21706941e-02 1.59976155e+04]	Score: 15.757048663637853

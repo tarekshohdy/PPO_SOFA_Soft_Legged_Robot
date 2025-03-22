@@ -1,0 +1,23 @@
+Genetic Algorithm
+-----------------
+Population size: 50
+Number of generations: 15
+sample_size: 500
+----------------------------------------------
+Generation: 0	Best individual: [1.86537502e-01 2.33134220e+04]	Fitness: 16.174250510144812
+Generation: 1	Best individual: [1.00000000e-02 1.91181898e+04]	Fitness: 16.188086108294502
+Generation: 2	Best individual: [1.74245903e-01 1.73814969e+04]	Fitness: 15.830814499855212
+Generation: 3	Best individual: [1.53921694e-01 1.86808469e+04]	Fitness: 15.925899689230679
+Generation: 4	Best individual: [1.86875646e-01 1.80988848e+04]	Fitness: 15.993113158309361
+Generation: 5	Best individual: [1.76060330e-02 1.85557933e+04]	Fitness: 16.13544087873101
+Generation: 6	Best individual: [1.06979029e-01 2.01364932e+04]	Fitness: 16.000191466170488
+Generation: 7	Best individual: [6.15600106e-02 1.97154225e+04]	Fitness: 16.102190423014466
+Generation: 8	Best individual: [1.25273218e-01 2.03625559e+04]	Fitness: 15.873786659684377
+Generation: 9	Best individual: [1.86482262e-01 2.02809461e+04]	Fitness: 15.974081377054105
+Generation: 10	Best individual: [1.00588781e-01 2.07797144e+04]	Fitness: 16.105701813524753
+Generation: 11	Best individual: [1.87739382e-01 2.00766457e+04]	Fitness: 16.05569585976129
+Generation: 12	Best individual: [1.89649238e-01 2.26257795e+04]	Fitness: 16.079866654548212
+Generation: 13	Best individual: [6.16814637e-02 1.83381886e+04]	Fitness: 16.125239363937887
+Generation: 14	Best individual: [1.59943086e-01 2.11550205e+04]	Fitness: 15.89730156539256
+=============================================
+Overall Best individual: [0.1742459030014992 17381.496940515673]	Fitness: 15.830814499855212
