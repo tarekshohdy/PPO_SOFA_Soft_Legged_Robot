@@ -1,0 +1,30 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/youmna/colcon_ws/build/my_sphere_pkg",
+        "/home/youmna/colcon_ws/install/my_sphere_pkg/lib/python3.8/site-packages",
+        "/home/youmna/colcon_ws/build/my_environment_pkg",
+        "/home/youmna/colcon_ws/install/my_environment_pkg/lib/python3.8/site-packages",
+        "/home/youmna/colcon_ws/build/my_doosan_pkg",
+        "/home/youmna/colcon_ws/install/my_doosan_pkg/lib/python3.8/site-packages",
+        "/home/youmna/colcon_ws/build/mobile_project",
+        "/home/youmna/colcon_ws/install/mobile_project/lib/python3.8/site-packages",
+        "/home/youmna/colcon_ws/install/bedo_bot/lib/python3.8/site-packages",
+        "/home/youmna/colcon_ws/build/basic_pkg",
+        "/home/youmna/colcon_ws/install/basic_pkg/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/youmna/colcon_ws/build/my_sphere_pkg",
+        "/home/youmna/colcon_ws/install/my_sphere_pkg/lib/python3.8/site-packages",
+        "/home/youmna/colcon_ws/build/my_environment_pkg",
+        "/home/youmna/colcon_ws/install/my_environment_pkg/lib/python3.8/site-packages",
+        "/home/youmna/colcon_ws/build/my_doosan_pkg",
+        "/home/youmna/colcon_ws/install/my_doosan_pkg/lib/python3.8/site-packages",
+        "/home/youmna/colcon_ws/build/mobile_project",
+        "/home/youmna/colcon_ws/install/mobile_project/lib/python3.8/site-packages",
+        "/home/youmna/colcon_ws/install/bedo_bot/lib/python3.8/site-packages",
+        "/home/youmna/colcon_ws/build/basic_pkg",
+        "/home/youmna/colcon_ws/install/basic_pkg/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ]
+}
